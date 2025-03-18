@@ -1,0 +1,36 @@
+DOCTYPE html >
+< html  lang =" es " >
+< cabeza >
+  < meta  charset =" UTF-8 " >
+  < título > Carta de San Valentín </ título >
+  < link  rel =" hoja de estilo " href =" ./style.css " >
+</ cabeza >
+< cuerpo >
+
+   
+
+< div  class =" día-de-san-valentin " >
+  < div  class = " sobre " > </div>​
+  < div  class = " corazón " > </div>​
+  PARA  :mi ex 
+  < div  class = " front " > </div>​
+</div>​​
+
+< div  id =" tarjeta " >
+  < div  class =" lado uno " > </ div >
+  < div  class =" lado dos " >
+    < h2 > Para mi ex </ h2 >
+    < p > Querida MARIA </ p >
+    < p > Desde el fondo de mi corazón salen estas palabras que hoy te envío. Para empezar quiero decirte que estos días sin ti han sido como una agonía que no tiene fin, mi corazón sufre por el dolor de no tenerte a mi lado y esta situación hace que me arrepienta desde lo más profundo de mi alma por todo lo que hice.
+
+Sé que cometí muchos errores que te lastimaron y te causaron mucho dolor y por eso quiero pedirte que me disculpes por todo el daño que te causé. No tengo ninguna excusa para presentarte, pero quiero expresar mi arrepentimiento completo por todo lo sucedido y espero que llegue el día en el cual puedas brindarme tu perdón.
+
+El tiempo que ha pasado me ha ayudado mucho a reflexionar y me parece tan increíble que yo haya sido tan tonto como para perder a una mujer tan maravillosa como lo eres tú. Nada me haría más feliz en este mundo que poder recibir tu perdón y poder tener aunque sea una oportunidad más de recuperar tu confianza y sobre todo tu gran y valioso amor.”... </ p >
+    < p > Q </ p >
+  </div>​​
+</div>​​
+
+< script  src = ' https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js ' > </ script >
+< script  src =" ./script.js " > </ script >
+
+</ cuerpo >
